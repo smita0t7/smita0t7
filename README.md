@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning programming.
 - 📫 How to reach me smita.sgi34@gmail.com
-- 😄 Pronouns: her
+- 😄 Pronouns: her .
 - ⚡ Fun fact: Ambivert
 
 <!---
