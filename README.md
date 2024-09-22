@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming languages.
 - 😄 Pronouns: her .
 - ⚡ Fun fact: Ambivert
-- 📫 My linkedin profile - https://www.linkedin.com/in/smita-sarangi-564021327/
+- 🔗 My linkedin profile - https://www.linkedin.com/in/smita-sarangi-564021327/
 - 📫 How to reach me smita.sgi34@gmail.com
 
 <!---
