@@ -10,3 +10,7 @@
 smita0t7/smita0t7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+##Here are my projects
+- [Word Letter Counter using react](https://github.com/smita0t7/reactProject)
+- [Basic express app with CRUD API](https://github.com/smita0t7/expressApp1)
+
