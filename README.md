@@ -7,6 +7,8 @@
 - 📫 How to reach me smita.sgi34@gmail.com
 
 ## Here are my projects
-- [Word Letter Counter using react](https://github.com/smita0t7/reactProject)
 - [Basic express app with CRUD API](https://github.com/smita0t7/expressApp1)
+- [Word Letter Counter using react](https://github.com/smita0t7/reactProject)
+- [Password validator using react](https://github.com/smita0t7/react_project)
+- [Lyrics finder using react](https://github.com/smita0t7/react_project)
 
