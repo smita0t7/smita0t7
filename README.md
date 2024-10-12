@@ -37,4 +37,4 @@
  - [basic react project to create a lyrics finder](https://github.com/smita0t7/react_project/tree/main/lyrics-finder)
  - [basic react project for axios app](https://github.com/smita0t7/react_project/tree/main/axios-lab)
  - [basic react project for react-router-lab](https://github.com/smita0t7/react_project/tree/main/react-router-lab)
-  
+ - [basic react project for Movie-app](https://github.com/smita0t7/react_project/tree/main/movie-app)
