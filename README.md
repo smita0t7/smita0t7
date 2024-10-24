@@ -21,7 +21,8 @@
 
 ### Here is my resume which is based on pure html
 [Smita Sriya Sarangi](https://smita0t7.github.io/resume/)
-### Mini-projects To practice on html, css
+
+### Mini-projects To practice on html,css and javascript
  - [For beginners go through this repo](https://github.com/smita0t7/html_css_practice)
 
 ### Here are my project
